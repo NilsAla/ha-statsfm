@@ -1,0 +1,48 @@
+{
+  "entity": {
+    "sensor": {
+      "listening_time_today": {
+        "default": "mdi:headphones"
+      },
+      "listening_time_week": {
+        "default": "mdi:headphones"
+      },
+      "listening_time_month": {
+        "default": "mdi:headphones"
+      },
+      "listening_time_year": {
+        "default": "mdi:headphones"
+      },
+      "listening_time_total": {
+        "default": "mdi:headphones-box"
+      },
+      "streams_today": {
+        "default": "mdi:counter"
+      },
+      "streams_week": {
+        "default": "mdi:counter"
+      },
+      "streams_month": {
+        "default": "mdi:counter"
+      },
+      "streams_year": {
+        "default": "mdi:counter"
+      },
+      "streams_total": {
+        "default": "mdi:counter"
+      },
+      "top_track": {
+        "default": "mdi:trophy"
+      },
+      "top_artist": {
+        "default": "mdi:account-music"
+      },
+      "last_track": {
+        "default": "mdi:music-note"
+      },
+      "now_playing": {
+        "default": "mdi:repeat-variant"
+      }
+    }
+  }
+}

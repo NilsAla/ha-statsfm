@@ -1,0 +1,68 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "stats.fm",
+        "description": "Dein stats.fm-Benutzername, deine Custom-ID oder Profil-URL. Profil und Stream-Statistiken müssen öffentlich sein.",
+        "data": {
+          "user_id": "Benutzer"
+        }
+      }
+    },
+    "error": {
+      "user_not_found": "Benutzer nicht gefunden.",
+      "stats_private": "Stream-Statistiken sind privat. In den stats.fm-Privatsphäre-Einstellungen freigeben.",
+      "cannot_connect": "stats.fm-API nicht erreichbar.",
+      "unknown": "Unerwarteter Fehler, siehe Log."
+    },
+    "abort": {
+      "already_configured": "Dieser Benutzer ist bereits eingerichtet."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "listening_time_today": {
+        "name": "Hörzeit heute"
+      },
+      "listening_time_week": {
+        "name": "Hörzeit diese Woche"
+      },
+      "listening_time_month": {
+        "name": "Hörzeit diesen Monat"
+      },
+      "listening_time_year": {
+        "name": "Hörzeit dieses Jahr"
+      },
+      "listening_time_total": {
+        "name": "Hörzeit gesamt"
+      },
+      "streams_today": {
+        "name": "Streams heute"
+      },
+      "streams_week": {
+        "name": "Streams diese Woche"
+      },
+      "streams_month": {
+        "name": "Streams diesen Monat"
+      },
+      "streams_year": {
+        "name": "Streams dieses Jahr"
+      },
+      "streams_total": {
+        "name": "Streams gesamt"
+      },
+      "top_track": {
+        "name": "Top-Track"
+      },
+      "top_artist": {
+        "name": "Top-Künstler"
+      },
+      "last_track": {
+        "name": "Zuletzt gehört"
+      },
+      "now_playing": {
+        "name": "Aktueller Song"
+      }
+    }
+  }
+}

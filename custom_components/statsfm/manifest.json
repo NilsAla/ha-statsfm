@@ -1,0 +1,15 @@
+{
+  "domain": "statsfm",
+  "name": "stats.fm",
+  "codeowners": [
+    "@NilsAla"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/NilsAla/ha-statsfm",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/NilsAla/ha-statsfm/issues",
+  "requirements": [],
+  "version": "0.2.0"
+}
